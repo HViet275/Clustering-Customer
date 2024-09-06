@@ -50,6 +50,8 @@ We are currently coding and implementing the following tasks:
 
 4. **Visualization**:
    - Generating visualizations of data and clustering results using `matplotlib`, `seaborn`, and `plotly`.
+   - ![3D_Clustering](https://github.com/user-attachments/assets/6d41b684-effb-43fd-a635-e27ccf081f38)
+
 
 :bulb: 5. **Recommendation System**: :bulb:
 
