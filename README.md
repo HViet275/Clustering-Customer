@@ -21,7 +21,7 @@ The dataset used includes sales transactions from a UK-based retailer and contai
 
 1. **Customer Clustering**:
    - **Goal**: Segment customers based on their purchasing behavior.
-   - **Method**: K-means clustering algorithm.
+   - **Method**: K-means & Agglomerative clustering algorithm.
    - **Tools**: `sklearn.cluster.KMeans`, `yellowbrick.cluster.KElbowVisualizer`, `yellowbrick.cluster.SilhouetteVisualizer`.
    - **Outcome**: Identify customer segments and analyze their characteristics to improve marketing strategies.
 
