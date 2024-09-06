@@ -4,7 +4,7 @@
 
 This project is in progress and focuses on enhancing marketing strategies and increasing sales for an online retailer through customer segmentation and a recommendation system. By analyzing transactional data, we aim to segment customers into distinct clusters and recommend personalized products.
 
-## Dataset :fire:
+## Dataset [https://drive.google.com/drive/folders/1rXyRjaZ5946gTyQ1DijMxkD6nW9by-3D?usp=drive_link] :fire:
 
 The dataset used includes sales transactions from a UK-based retailer and contains the following columns:
 
