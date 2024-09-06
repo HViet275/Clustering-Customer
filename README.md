@@ -42,7 +42,11 @@ We are currently coding and implementing the following tasks:
    - Creating new features to better represent customer behavior and transaction patterns.
 
 3. **Clustering**:
-   - Applying K-means clustering and evaluating results using silhouette score, Calinski-Harabasz score, and Davies-Bouldin score.
+   - Applying K-means clustering &  Agglomerative Clustering and evaluating results using silhouette score, Calinski-Harabasz score, and Davies-Bouldin score => decided to choose the KMeans clustering.
+   ![AC](https://github.com/user-attachments/assets/b0d1c80c-5e66-4ef3-9afc-2ffcc6a87063)
+   ![KM](https://github.com/user-attachments/assets/e577dbb0-f5db-4985-8e37-3340dc7baac5)
+
+
    - Visualizing clustering performance using `matplotlib` and `seaborn`.
   ![Silhouette Plot](https://github.com/user-attachments/assets/2d9cacab-b2f2-4929-8876-08a781f84309)
 
